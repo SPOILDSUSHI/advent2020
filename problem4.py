@@ -127,9 +127,3 @@ if __name__ == "__main__":
 
     print('the number of valid Passports for problem 1: {:d}'.format(file_parse('p4.txt')))
     print('the number of valid Passports for problem 2: {:d}'.format(file_parse2('p4.txt')))
-    # print('the number of trees for problem 2 right 1: {:d}'.format(sled1))
-    # print('the number of trees for problem 2 right 3: {:d}'.format(sled3))
-    # print('the number of trees for problem 2 right 5: {:d}'.format(sled5))
-    # print('the number of trees for problem 2 right 7: {:d}'.format(sled7))
-    # print('the number of trees for problem 2 right 1 down 2: {:d}'.format(sled12))
-    # print('the number of trees for problem 2 all multiplied is: {:d}'.format(sled1 * sled3 * sled5 * sled7 * sled12))
